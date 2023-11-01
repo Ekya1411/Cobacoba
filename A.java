@@ -6,14 +6,15 @@ public class A {
         int counter = 1;
         String nama, kelamin;
 
-        for (; counter <= 3 ; counter++) {
-            System.out.print("Nama: ");
-            nama = input.nextLine();
-            System.out.print("kelamin: ");
-            kelamin = input.nextLine();
-        if (kelamin.equalsIgnoreCase("p")) {
-            System.out.println(nama);
+            for (; counter <= 3 ; counter++) {
+                System.out.print("Nama: ");
+                nama = input.nextLine();
+                System.out.print("kelamin: ");
+                kelamin = input.nextLine();
+            if (kelamin.equalsIgnoreCase("p")) {
+                System.out.println(nama);
+                }
             }
-        }
+            System.out.println("Bambang");
         }
     }
