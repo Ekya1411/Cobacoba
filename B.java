@@ -5,7 +5,8 @@ public class B {
 
         int angka = 25 ;
 
-        for 
-
-    }    
+        for (int i = 0; i < args.length; i++) {
+            System.out.println("bambang");
+            
+        }
 }
