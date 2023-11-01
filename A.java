@@ -16,5 +16,6 @@ public class A {
                 }
             }
             System.out.println("Bambang");
+            System.out.println("jadi kita menambah lagi ya gais ya");
         }
     }
